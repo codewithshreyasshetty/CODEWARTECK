@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **REACT JS**
 
-- 💬 Ask me about **C#,SYMPY,PYTHON,CSS,JS,MERN**
+- 💬 Ask me about **C#,SYMPY,PYTHON,CSS,JS**
 
 - 📫 How to reach me **codewarteck@gmail.com**
 
