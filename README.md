@@ -23,7 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/shreyasshetty8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreyasshetty8055" height="30" width="40" /></a>
-<a href="https://instagram.com/shreyasthetics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyasthetics" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codewithshrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithshrey" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/codewithshrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codewithshrey" height="30" width="40" /></a>
 </p>
