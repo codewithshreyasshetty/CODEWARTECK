@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **codewarteck@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
